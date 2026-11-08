@@ -1,2 +1,2 @@
 # projeto-bd-transportadora
-Banco de dados SQL (proejto
+Banco de dados SQL (proejeto)
